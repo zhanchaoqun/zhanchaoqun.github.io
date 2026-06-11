@@ -21,10 +21,11 @@ changes the lives of workers and families in China.
 [🎓 Google Scholar](https://scholar.google.com/){.btn .btn-outline-primary .btn-sm}
 
 ::: {.field-tags}
-[Global Supply Chains]{.field-tag}
-[Production Networks]{.field-tag}
-[Multinationals]{.field-tag}
+[Trade Liberalization]{.field-tag}
+[FDI & Multinationals]{.field-tag}
 [Mergers & Acquisitions]{.field-tag}
+[Global Supply Chains]{.field-tag}
+[Labor & Gender]{.field-tag}
 [Chinese Economy]{.field-tag}
 :::
 :::
