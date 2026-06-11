@@ -1,6 +1,7 @@
 /_site/
 /.quarto/
 /0 Publication/
+/_variables.yml
 .DS_Store
 *.log
 

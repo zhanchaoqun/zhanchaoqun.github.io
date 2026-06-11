@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: _site
+  pre-render: bash update-date.sh
   resources:
     - "!/0 Publication/"
 
@@ -17,17 +18,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-    right:
-      - text: CV
-        href: files/cv.pdf
-      - icon: google
-        href: https://scholar.google.com/
-        aria-label: Google Scholar
-      - icon: github
-        href: https://github.com/
-        aria-label: GitHub
   page-footer:
-    center: "© 2026 Chaoqun Zhan · Built with [Quarto](https://quarto.org)"
+    center: "© 2026 Chaoqun Zhan · Updated {{< var updated >}}"
 
 format:
   html:
