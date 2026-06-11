@@ -9,8 +9,8 @@ page-layout: full
 ::: {.profile-text}
 # Chaoqun Zhan
 
-Assistant Professor, **Department of Accountancy, Economics and Finance**
-Hong Kong Baptist University, Hong Kong SAR, China
+Assistant Professor, Department of Accountancy, Economics and Finance,
+Hong Kong Baptist University, Hong Kong SAR
 
 I study how trade liberalization, foreign investment, and global supply
 chains reshape what firms make, buy, and merge — and how globalization
@@ -18,7 +18,7 @@ changes the lives of workers and families in China.
 
 [📄 CV](files/cv.pdf){.btn .btn-outline-primary .btn-sm}
 [✉️ cqzhan@hkbu.edu.hk](mailto:cqzhan@hkbu.edu.hk){.btn .btn-outline-primary .btn-sm}
-[🎓 Google Scholar](https://scholar.google.com/){.btn .btn-outline-primary .btn-sm}
+[🎓 Google Scholar](https://scholar.google.com/citations?user=YfWwjvAAAAAJ&hl=zh-CN&inst=10806615469772578445){.btn .btn-outline-primary .btn-sm}
 
 ::: {.field-tags}
 [Trade Liberalization]{.field-tag}
