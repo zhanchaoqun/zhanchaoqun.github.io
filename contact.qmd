@@ -1,0 +1,17 @@
+---
+title: "Contact"
+---
+
+**Chaoqun Zhan**
+Department of Accountancy, Economics and Finance
+School of Business, Hong Kong Baptist University
+Kowloon Tong, Hong Kong SAR, China
+
+- **Office:** WLB 527A
+- **Email:** [cqzhan@hkbu.edu.hk](mailto:cqzhan@hkbu.edu.hk)
+- **Phone:** (+852) 5445 3089
+- **Google Scholar:** [link](https://scholar.google.com/)
+- **RePEc / IDEAS:** [link](https://ideas.repec.org/)
+- **SSRN:** [link](https://www.ssrn.com/)
+
+For working papers and replication code, see the [Research](research.qmd) page.

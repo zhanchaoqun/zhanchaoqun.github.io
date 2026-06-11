@@ -1,0 +1,139 @@
+/*-- scss:defaults --*/
+
+$primary: #0066cc;            // quiet, confident blue (used sparingly)
+$body-color: #1d1d1f;
+$link-color: #0066cc;
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "SF Pro Text",
+  "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+/*-- scss:rules --*/
+
+body {
+  font-size: 1.02rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+.navbar {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid #ebebed;
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #1d1d1f;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+// Section headings: quiet, generous whitespace, no ornament
+.content h2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: #1d1d1f;
+  border: none;
+  margin-top: 3.25rem;
+  margin-bottom: 1.5rem;
+}
+
+// Landing / profile block
+.profile {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+.profile img {
+  width: 190px;
+  border-radius: 10px;
+}
+.profile-text {
+  flex: 1;
+  min-width: 280px;
+}
+
+// Publication entries: pure typography, no boxes
+.pub {
+  margin-bottom: 1.5rem;
+  max-width: 46rem;
+}
+.pub p {
+  margin-bottom: 0;
+}
+.pub .meta {
+  display: block;
+  color: #3c4250;
+  font-size: 0.95rem;
+  margin-top: 0.15rem;
+}
+.pub .meta a {
+  color: $primary;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+// Status badges (R&R, Accepted, Submitted)
+.badge-status {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.12rem 0.55rem;
+  border-radius: 100px;
+  margin-right: 0.4rem;
+  vertical-align: 0.1em;
+}
+.badge-rr     { background: #fdf3df; color: #936a00; }
+.badge-accept { background: #e4f3e9; color: #1d6f42; }
+.badge-submit { background: #f0f0f2; color: #55555c; }
+
+// Course / generic entries (teaching page)
+.paper {
+  margin-bottom: 1.75rem;
+  max-width: 46rem;
+}
+.paper .title {
+  display: block;
+  font-weight: 500;
+}
+.paper .meta {
+  display: block;
+  color: #3c4250;
+  font-size: 0.95rem;
+  margin-top: 0.15rem;
+}
+.paper .links a {
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-right: 0.9rem;
+}
+
+// Field tags: hairline, understated
+.field-tag {
+  display: inline-block;
+  color: #3c4250;
+  border: 1px solid #c8c8cf;
+  padding: 0.1rem 0.65rem;
+  border-radius: 100px;
+  font-size: 0.82rem;
+  margin: 0.15rem 0.3rem 0.15rem 0;
+}
+
+.page-footer {
+  color: #86868b;
+  font-size: 0.85rem;
+}

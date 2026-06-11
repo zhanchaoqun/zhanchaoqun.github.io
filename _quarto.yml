@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "!/0 Publication/"
+
+website:
+  title: "Chaoqun Zhan"
+  description: "Trade economist — international trade, global value chains, and trade policy."
+  site-url: "https://zhanchaoqun.github.io"
+  favicon: images/favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: CV
+        href: files/cv.pdf
+      - icon: google
+        href: https://scholar.google.com/
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Chaoqun Zhan · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - litera
+      - styles.scss
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 900px

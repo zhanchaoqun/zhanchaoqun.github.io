@@ -1,0 +1,41 @@
+---
+title: "Teaching"
+---
+
+## Hong Kong Baptist University
+
+::: {.paper}
+[Causal Inference: Capturing Cause-and-Effect Relationships with Data]{.title}
+[Undergraduate · Fall 2023–2025]{.meta}
+
+An applied introduction to modern causal inference, covering randomized
+experiments, regression, difference-in-differences, instrumental variables,
+and regression discontinuity designs, with hands-on data work.
+
+::: {.links}
+[Syllabus](#){target="_blank"}
+:::
+:::
+
+## Sun Yat-sen University
+
+::: {.paper}
+[International Trade and Multinational Corporations]{.title}
+[Ph.D. · Fall 2020, Fall 2021]{.meta}
+
+A doctoral course on frontier research in international trade, global
+production, and the economics of multinational firms.
+:::
+
+::: {.paper}
+[International Economics]{.title}
+[Master · Fall 2019 (lectured in English)]{.meta}
+
+A graduate survey of international trade and open-economy macroeconomics.
+:::
+
+## Office Hours
+
+By appointment. Please email me at
+[cqzhan@hkbu.edu.hk](mailto:cqzhan@hkbu.edu.hk) to schedule a meeting at my
+office (WLB 527A).

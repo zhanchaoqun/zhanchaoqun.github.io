@@ -1,0 +1,83 @@
+---
+title: "Research"
+---
+
+## Publications
+
+::: {.pub}
+Trade Liberalization and Domestic Vertical Integration: Evidence from China
+[***Journal of International Economics***, 2019, 121, 103250 · with Qing Liu and Larry D. Qiu · [Paper](files/trade-liberalization-vertical-integration-jie2019.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+FDI Inflows and Export Quality: Domestic Competition and Within-firm Adjustment
+[***Journal of Development Economics***, 2024, 170, 103293 · with Qing Liu and Larry D. Qiu · [Paper](files/fdi-export-quality-jde2024.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+Foreign Direct Investment and Gender Education Gap
+[*Economic Development and Cultural Change* · forthcoming, with Rufei Guo, Haiji Lin, and Xin Wang · [Paper](files/fdi-gender-education-gap-edcc.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+The Corruption Culture of Multinationals: Evidence from China
+[*Journal of Economic Behavior & Organization*, 2025, 234, 107012 · with Haicheng Guo and Sibo Liu · [Paper](files/corruption-culture-multinationals-jebo2025.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+The (Dis)Connection between R&D and Productivity in China: Policy Implications of R&D Tax Credits
+[*Journal of Comparative Economics*, 2024, 52(1), 297–320 · with Qing Liu, Xing Wei, and Larry D. Qiu · [Paper](files/rd-productivity-china-jce2024.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+Does Belt and Road Initiative Attract Cross-border M&As from Other Countries?
+[*The World Economy*, 2024, 47(5), 1916–1942 · with Chenxue Hou and Hanxi Wang · [Paper](files/bri-cross-border-mas-twe2024.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+Government Procurement and Resource Misallocation: Evidence from China
+[*Journal of Economic Behavior & Organization*, 2023, 216, 568–589 · with Jing Hang · [Paper](files/government-procurement-misallocation-jebo2023.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+An Analysis of the China–US Trade War through the Lens of the Trade Literature
+[*Economic and Political Studies*, 2019, 7(2), 148–168 · with Larry D. Qiu and Xing Wei · [Paper](files/china-us-trade-war-eps2019.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+China's Global Influence: A Survey through the Lens of International Trade
+[*Pacific Economic Review*, 2016, 21(1), 45–71 · with Larry D. Qiu · [Paper](files/chinas-global-influence-per2016.pdf){target="_blank"}]{.meta}
+:::
+
+## Working Papers
+
+::: {.pub}
+Input Similarity, Core Competencies and M&As
+[[R&R]{.badge-status .badge-rr}***Journal of International Economics*** · with Qing Liu, Larry D. Qiu, and Stephen T. Sun · [PDF](files/wp-input-similarity.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+Gender-biased Technology, Intra-household Bargaining, and Fertility
+[[Submitted]{.badge-status .badge-submit}with Aiya Feng and Dezhuang Hu · [PDF](files/wp-gender-technology-fertility.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
+Trade Liberalization, Intermediate Input Substitution, and Labor Share
+[[Submitted]{.badge-status .badge-submit}with Jing Hang, Cui Hu, and Mohan Zhou · [PDF](files/wp-input-substitution-labor-share.pdf){target="_blank"}]{.meta}
+:::
+
+## Work in Progress
+
+::: {.pub}
+Structural Transformation and Agricultural Adaptation
+[with Ting Chen and Jing Hang]{.meta}
+:::
+
+::: {.pub}
+Exporting Pains: Export Slowdown and Domestic Violence
+[with Rufei Guo, Hong Ma, Yu Pan, and Mingzhi (Jimmy) Xu]{.meta}
+:::
+
+::: {.pub}
+Economic Policy Uncertainty and the Role of Trade Intermediaries
+:::
