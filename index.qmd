@@ -7,7 +7,7 @@ page-layout: full
 ![](images/profile.jpg){fig-alt="Chaoqun Zhan"}
 
 ::: {.profile-text}
-# Chaoqun Zhan
+# Chaoqun Zhan 占超群
 
 Assistant Professor, Department of Accountancy, Economics and Finance,
 Hong Kong Baptist University, Hong Kong SAR
