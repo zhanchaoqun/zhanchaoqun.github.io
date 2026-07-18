@@ -57,14 +57,21 @@ Input Similarity, Core Competencies and M&As
 :::
 
 ::: {.pub}
-Gender-biased Technology, Intra-household Bargaining, and Fertility
-[[Submitted]{.badge-status .badge-submit}with Aiya Feng and Dezhuang Hu · [Paper](files/wp-gender-technology-fertility.pdf){target="_blank"}]{.meta}
+Trade Liberalization, Intermediate Input Substitution, and Labor Share
+[with Jing Hang, Cui Hu, and Mohan Zhou · [Paper](files/wp-input-substitution-labor-share.pdf){target="_blank"}]{.meta}
+:::
+
+
+::: {.pub}
+From Grain to Silver: Tax Reform, Monetary Adoption, and Economic Growth in Ming China
+[with Ting Chen, Jiachen Li, and Chang Liu]{.meta}
 :::
 
 ::: {.pub}
-Trade Liberalization, Intermediate Input Substitution, and Labor Share
-[[Submitted]{.badge-status .badge-submit}with Jing Hang, Cui Hu, and Mohan Zhou · [Paper](files/wp-input-substitution-labor-share.pdf){target="_blank"}]{.meta}
+Gender-biased Technology, Intra-household Bargaining, and Fertility
+[with Aiya Feng and Dezhuang Hu · [Paper](files/wp-gender-technology-fertility.pdf){target="_blank"}]{.meta}
 :::
+
 
 ## Work in Progress
 

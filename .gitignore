@@ -3,6 +3,7 @@
 /0 Publication/
 /_variables.yml
 .DS_Store
+.Rhistory
 *.log
 
 **/*.quarto_ipynb
