@@ -5,6 +5,11 @@ pagetitle: "Research"
 ## Publications
 
 ::: {.pub}
+Input Similarity, Core Competencies and M&As
+[[Conditional Accept]{.badge-status .badge-accept}***Journal of International Economics*** · with Qing Liu, Larry D. Qiu, and Stephen T. Sun · [Paper](files/wp-input-similarity.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
 Trade Liberalization and Domestic Vertical Integration: Evidence from China
 [***Journal of International Economics***, 2019, 121, 103250 · with Qing Liu and Larry D. Qiu · [Paper](files/trade-liberalization-vertical-integration-jie2019.pdf){target="_blank"}]{.meta}
 :::
@@ -52,8 +57,8 @@ China's Global Influence: A Survey through the Lens of International Trade
 ## Working Papers
 
 ::: {.pub}
-Input Similarity, Core Competencies and M&As
-[[R&R]{.badge-status .badge-rr}***Journal of International Economics*** · with Qing Liu, Larry D. Qiu, and Stephen T. Sun · [Paper](files/wp-input-similarity.pdf){target="_blank"}]{.meta}
+Joining Global Supply Chains: Foreign Banks and Chinese Firms' Import Sourcing
+[with Larry D. Qiu]{.meta}
 :::
 
 ::: {.pub}
