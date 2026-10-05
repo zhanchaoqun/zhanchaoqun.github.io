@@ -5,11 +5,6 @@ pagetitle: "Research"
 ## Publications
 
 ::: {.pub}
-Input Similarity, Core Competencies and M&As
-[[Conditional Accept]{.badge-status .badge-accept}***Journal of International Economics*** · with Qing Liu, Larry D. Qiu, and Stephen T. Sun · [Paper](files/wp-input-similarity.pdf){target="_blank"}]{.meta}
-:::
-
-::: {.pub}
 Trade Liberalization and Domestic Vertical Integration: Evidence from China
 [***Journal of International Economics***, 2019, 121, 103250 · with Qing Liu and Larry D. Qiu · [Paper](files/trade-liberalization-vertical-integration-jie2019.pdf){target="_blank"}]{.meta}
 :::
@@ -20,8 +15,13 @@ FDI Inflows and Export Quality: Domestic Competition and Within-firm Adjustment
 :::
 
 ::: {.pub}
+Input Similarity, Core Competencies and M&As
+[[Conditional Accept]{.badge-status .badge-accept}***Journal of International Economics*** · with Qing Liu, Larry D. Qiu, and Stephen T. Sun · [Paper](files/wp-input-similarity.pdf){target="_blank"}]{.meta}
+:::
+
+::: {.pub}
 Foreign Direct Investment and Gender Education Gap
-[*Economic Development and Cultural Change* · forthcoming, with Rufei Guo, Haiji Lin, and Xin Wang · [Paper](files/fdi-gender-education-gap-edcc.pdf){target="_blank"}]{.meta}
+[*Economic Development and Cultural Change*, 2026, 75(1), 95–132 · with Rufei Guo, Haiji Lin, and Xin Wang · [Paper](files/fdi-gender-education-gap-edcc.pdf){target="_blank"}]{.meta}
 :::
 
 ::: {.pub}
